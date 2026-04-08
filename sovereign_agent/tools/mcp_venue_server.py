@@ -35,13 +35,13 @@ VENUES = {
     "The Albanach": {
         "capacity": 180,
         "vegan": True,
-        "status": "available",
+        "status": "avaibable",
         "address": "2 Hunter Square, Edinburgh",
     },
     "The Haymarket Vaults": {
         "capacity": 160,
         "vegan": True,
-        "status": "available",
+        "status": "full",
         "address": "1 Dalry Road, Edinburgh",
     },
     "The Guilford Arms": {
